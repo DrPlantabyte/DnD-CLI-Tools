@@ -1,0 +1,320 @@
+Name,Price (gp),Weight (lb.),Category,Properties,AC,Damage,Tags,Source
+Abacus,2,2,Adventuring Gear,,,,adventuring gear;wood,PHB
+Acid (vial),25,1,Adventuring Gear,,,,adventuring gear;alchemy,PHB
+Alchemist's Fire (flask),50,1,Adventuring Gear,,,,adventuring gear;alchemy,PHB
+Antitoxin (vial),50,0,Adventuring Gear,,,,adventuring gear;alchemy,PHB
+Backpack,2,5,Adventuring Gear,,,,adventuring gear;common;leather,PHB
+Ball Bearing,0.001,0.002,Adventuring Gear,,,,adventuring gear;clockwork;metal,PHB
+"Ball Bearings (bag of 1,000)",1,2,Adventuring Gear,,,,adventuring gear;clockwork;metal,PHB
+Barrel,2,70,Adventuring Gear,,,,adventuring gear;common;wood,PHB
+Basket,0.4,2,Adventuring Gear,,,,adventuring gear;common,PHB
+Bedroll,1,7,Adventuring Gear,,,,adventuring gear;common;textile,PHB
+Bell,1,0,Adventuring Gear,,,,adventuring gear;common;metal,PHB
+Black Sap,300,0,Adventuring Gear,,,,adventuring gear;criminal;nature,EGW
+Blanket,0.5,3,Adventuring Gear,,,,adventuring gear;common;textile,PHB
+Blight Ichor,200,0,Adventuring Gear,,,,adventuring gear;criminal;nature,EGW
+Block and Tackle,1,5,Adventuring Gear,,,,adventuring gear;common;metal;wood,PHB
+Book,25,5,Adventuring Gear,,,,adventuring gear,PHB
+Bucket,0.05,2,Adventuring Gear,,,,adventuring gear;common;metal;wood,PHB
+Bullseye Lantern,10,2,Adventuring Gear,,,,adventuring gear;metal,PHB
+Burglar's Pack,16,44.5,Adventuring Gear,,,,adventuring gear;criminal,PHB
+Caltrop,0.05,0.1,Adventuring Gear,,,,adventuring gear;metal;military,PHB
+Caltrops (bag of 20),1,2,Adventuring Gear,,,,adventuring gear;metal;military,PHB
+Candle,0.01,0,Adventuring Gear,,,,adventuring gear;common,PHB
+Chain (10 feet),5,10,Adventuring Gear,,,,adventuring gear;metal,PHB
+Chalk (1 piece),0.01,0,Adventuring Gear,,,,adventuring gear;common,PHB
+Chest,5,25,Adventuring Gear,,,,adventuring gear;common;metal;wood,PHB
+Climber's Kit,25,12,Adventuring Gear,,,,adventuring gear;leather;textile,PHB
+"Clothing, cold weather",10,5,Adventuring Gear,,,,adventuring gear;common;leather;textile,IDRotF
+Common Clothes,0.5,3,Adventuring Gear,,,,adventuring gear;common;textile,PHB
+Component Pouch,25,2,Adventuring Gear,,,,adventuring gear;leather;magic,PHB
+Costume Clothes,5,4,Adventuring Gear,,,,adventuring gear;textile,PHB
+Crampons,2,0.25,Adventuring Gear,,,,adventuring gear;metal,IDRotF
+Crossbow Bolt Case,1,1,Adventuring Gear,,,,adventuring gear;military;wood,PHB
+Crowbar,2,5,Adventuring Gear,,,,adventuring gear;common;metal,PHB
+Diplomat's Pack,39,36,Adventuring Gear,,,,adventuring gear,PHB
+Dungeoneer's Pack,12,61.5,Adventuring Gear,,,,adventuring gear,PHB
+Entertainer's Pack,40,38,Adventuring Gear,,,,adventuring gear,PHB
+Explorer's Pack,10,59,Adventuring Gear,,,,adventuring gear,PHB
+Fine Clothes,15,6,Adventuring Gear,,,,adventuring gear;luxury;textile,PHB
+Fishing Tackle,1,4,Adventuring Gear,,,,adventuring gear;common,PHB
+Flask,0.02,1,Adventuring Gear,,,,adventuring gear;common;kiln;metal,PHB
+Glass Bottle,2,2,Adventuring Gear,,,,adventuring gear;common;kiln,PHB
+Grappling Hook,2,4,Adventuring Gear,,,,adventuring gear;metal,PHB
+Hammer,1,3,Adventuring Gear,,,,adventuring gear;common;metal,PHB
+Healer's Kit,5,3,Adventuring Gear,,,,adventuring gear;alchemy;nature,PHB
+Hempen Rope (50 feet),1,10,Adventuring Gear,,,,adventuring gear;common,PHB
+Holy Water (flask),25,1,Adventuring Gear,,,,adventuring gear;divine;magic,PHB
+Hooded Lantern,5,2,Adventuring Gear,,,,adventuring gear;metal,PHB
+Hourglass,25,1,Adventuring Gear,,,,adventuring gear;alchemy;clockwork;kiln,PHB
+Hunting Trap,5,25,Adventuring Gear,,,,adventuring gear;common;metal,PHB
+Ink (1-ounce bottle),10,0,Adventuring Gear,,,,adventuring gear;common,PHB
+Ink Pen,0.02,0,Adventuring Gear,,,,adventuring gear;common,PHB
+Insect Repellent (block of incense),0.1,0,Adventuring Gear,,,,adventuring gear;alchemy;common;nature,ToA
+Insect Repellent (greasy salve),1,0,Adventuring Gear,,,,adventuring gear;alchemy;common;nature,ToA
+Iron Pot,2,10,Adventuring Gear,,,,adventuring gear;common;metal,PHB
+Iron Spike,0.1,0.5,Adventuring Gear,,,,adventuring gear;metal,PHB
+Iron Spikes (10),1,5,Adventuring Gear,,,,adventuring gear;metal,PHB
+Jug,0.02,4,Adventuring Gear,,,,adventuring gear;common;kiln,PHB
+Ladder (10-foot),0.1,25,Adventuring Gear,,,,adventuring gear;common;wood,PHB
+Lamp,0.5,1,Adventuring Gear,,,,adventuring gear;common;kiln;metal,PHB
+Lock,10,1,Adventuring Gear,,,,adventuring gear;common;metal,PHB
+Magnifying Glass,100,0,Adventuring Gear,,,,adventuring gear;clockwork;kiln,PHB
+Manacles,2,6,Adventuring Gear,,,,adventuring gear;metal;military,PHB
+Map or Scroll Case,1,1,Adventuring Gear,,,,adventuring gear;leather,PHB
+Menga leaves (1 ounce),2,0.0625,Adventuring Gear,,,,adventuring gear;magic;nature,ToA
+Merchant's Scale,5,3,Adventuring Gear,,,,adventuring gear;metal,PHB
+Mess Kit,0.2,1,Adventuring Gear,,,,adventuring gear;common;metal;wood,PHB
+Miner's Pick,2,10,Adventuring Gear,,,,adventuring gear;common;metal,PHB
+Monster Hunter's Pack,33,48.5,Adventuring Gear,,,,adventuring gear,CoS
+Muroosa Balm,100,0,Adventuring Gear,,,,adventuring gear;alchemy;nature,EGW
+Oil (flask),0.1,1,Adventuring Gear,,,,adventuring gear;common,PHB
+Olisuba Leaf,50,0,Adventuring Gear,,,,adventuring gear;nature,EGW
+Paper (one sheet),0.2,0,Adventuring Gear,,,,adventuring gear;common,PHB
+Parchment (one sheet),0.1,0,Adventuring Gear,,,,adventuring gear;common,PHB
+Perfume (vial),5,0,Adventuring Gear,,,,adventuring gear,PHB
+Pitcher,0.02,4,Adventuring Gear,,,,adventuring gear;common,PHB
+Piton,0.05,0.25,Adventuring Gear,,,,adventuring gear;metal,PHB
+Pole (10-foot),0.05,7,Adventuring Gear,,,,adventuring gear;wood,PHB
+Portable Ram,4,35,Adventuring Gear,,,,adventuring gear;military,PHB
+Pouch,0.5,1,Adventuring Gear,,,,adventuring gear;common;leather,PHB
+Pride Silk,100,1,Adventuring Gear,,,,adventuring gear;luxury;textile,EGW
+Pride Silk Outfit,500,4,Adventuring Gear,,,,adventuring gear;luxury;textile,EGW
+Priest's Pack,19,24,Adventuring Gear,,,,adventuring gear;divine,PHB
+Quiver,1,1,Adventuring Gear,,,,adventuring gear;common;leather,PHB
+Rain Catcher,1,5,Adventuring Gear,,,,adventuring gear,ToA
+Rations (1 day),0.5,2,Adventuring Gear,,,,adventuring gear;food,PHB
+Robes,1,4,Adventuring Gear,,,,adventuring gear;common;textile,PHB
+Ryath Root,50,0,Adventuring Gear,,,,adventuring gear;nature,ToA
+Sack,0.01,0.5,Adventuring Gear,,,,adventuring gear;common;textile,PHB
+Scholar's Pack,40,10,Adventuring Gear,,,,adventuring gear,PHB
+Sealing Wax,0.5,0,Adventuring Gear,,,,adventuring gear;common,PHB
+Shovel,2,5,Adventuring Gear,,,,adventuring gear;common;metal,PHB
+Signal Whistle,0.05,0,Adventuring Gear,,,,adventuring gear,PHB
+Signet Ring,5,0,Adventuring Gear,,,,adventuring gear;luxury;metal,PHB
+Silk Rope (50 feet),10,5,Adventuring Gear,,,,adventuring gear;textile,PHB
+Sinda berries (10),5,0,Adventuring Gear,,,,adventuring gear;nature,ToA
+Sledgehammer,2,10,Adventuring Gear,,,,adventuring gear;common;metal;wood,PHB
+Snowshoes,2,4,Adventuring Gear,,,,adventuring gear;common;leather;wood,IDRotF
+Soap,0.02,0,Adventuring Gear,,,,adventuring gear;common,PHB
+Soothsalts,150,0,Adventuring Gear,,,,adventuring gear;alchemy;magic,EGW
+Spellbook,50,3,Adventuring Gear,,,,adventuring gear;arcane;magic,PHB
+Spyglass,1000,1,Adventuring Gear,,,,adventuring gear;clockwork,PHB
+Steel Mirror,5,0.5,Adventuring Gear,,,,adventuring gear;common;metal,PHB
+Tankard,0.02,1,Adventuring Gear,,,,adventuring gear;common,PHB
+Theki Root,3,0,Adventuring Gear,,,,adventuring gear;nature,EGW
+Tinderbox,0.5,1,Adventuring Gear,,,,adventuring gear;common,PHB
+Torch,0.01,1,Adventuring Gear,,,,adventuring gear;common;wood,PHB
+Traveler's Clothes,2,4,Adventuring Gear,,,,adventuring gear;common;textile,PHB
+Two-Person Tent,2,20,Adventuring Gear,,,,adventuring gear;common;textile,PHB
+Vial,1,0,Adventuring Gear,,,,adventuring gear;common;kiln,PHB
+Waterskin (full),0.2,5,Adventuring Gear,,,,adventuring gear;common;drink;leather,PHB
+Whetstone,0.01,1,Adventuring Gear,,,,adventuring gear;common;military;stone,PHB
+Wildroot,25,0,Adventuring Gear,,,,adventuring gear;nature,ToA
+Willowshade Oil,30,0,Adventuring Gear,,,,adventuring gear;alchemy;magic,EGW
+Wukka Nut,1,0,Adventuring Gear,,,,adventuring gear;magic;nature,ToA
+Yahcha,1,0,Adventuring Gear,,,,adventuring gear;nature,ToA
+Zabou,10,0,Adventuring Gear,,,,adventuring gear;nature,ToA
+Assassin's Blood,150,0,Adventuring Gear,,,,adventuring gear;alchemy;criminal;poison,DMG
+Basic Poison (vial),100,0,Adventuring Gear,,,,adventuring gear;alchemy;criminal;poison,PHB
+Burnt Othur Fumes,500,0,Adventuring Gear,,,,adventuring gear;alchemy;criminal;poison,DMG
+Carrion Crawler Mucus,200,0,Adventuring Gear,,,,adventuring gear;criminal;nature;poison,DMG
+Drow Poison,200,0,Adventuring Gear,,,,adventuring gear;alchemy;criminal;poison,DMG
+Essence of Ether,300,0,Adventuring Gear,,,,adventuring gear;alchemy;poison,DMG
+Malice,250,0,Adventuring Gear,,,,adventuring gear;alchemy;criminal;poison,DMG
+Midnight Tears,1500,0,Adventuring Gear,,,,adventuring gear;alchemy;criminal;poison,DMG
+Oil of Taggit,400,0,Adventuring Gear,,,,adventuring gear;alchemy;criminal;poison,DMG
+Pale Tincture,250,0,Adventuring Gear,,,,adventuring gear;alchemy;criminal;poison,DMG
+Purple Worm Poison,2000,0,Adventuring Gear,,,,adventuring gear;criminal;nature;poison,DMG
+Serpent Venom,200,0,Adventuring Gear,,,,adventuring gear;criminal;nature;poison,DMG
+Torpor,600,0,Adventuring Gear,,,,adventuring gear;alchemy;criminal;poison,DMG
+Truth Serum,150,0,Adventuring Gear,,,,adventuring gear;alchemy;criminal;military;poison,DMG
+Wyvern Poison,1200,0,Adventuring Gear,,,,adventuring gear;criminal;nature;poison,DMG
+Crystal,10,1,Adventuring Gear,,,,adventuring gear;arcane;magic;spellcasting focus,PHB
+Orb,20,3,Adventuring Gear,,,,adventuring gear;arcane;magic;spellcasting focus,PHB
+Rod,10,2,Adventuring Gear,,,,adventuring gear;arcane;magic;spellcasting focus,PHB
+Wand,10,1,Adventuring Gear,,,,adventuring gear;arcane;magic;spellcasting focus,PHB
+Sprig of Mistletoe,1,0,Adventuring Gear,,,,adventuring gear;druidic;magic;nature;primal;spellcasting focus,PHB
+Totem,1,0,Adventuring Gear,,,,adventuring gear;druidic;magic;primal;spellcasting focus,PHB
+Yew Wand,10,1,Adventuring Gear,,,,adventuring gear;druidic;magic;primal;spellcasting focus,PHB
+Amulet,5,1,Adventuring Gear,,,,adventuring gear;divine;holy symbol;magic;spellcasting focus,PHB
+Emblem,5,0,Adventuring Gear,,,,adventuring gear;divine;holy symbol;magic;spellcasting focus,PHB
+Reliquary,5,2,Adventuring Gear,,,,adventuring gear;divine;holy symbol;magic;spellcasting focus,PHB
+Shield,10,6,Armor,,+2,,armor;metal;military;shield;wood,PHB
+Chain Mail,75,55,Armor,"Disadvantage (Stealth), 13 Str",16,,armor;heavy armor;metal;military,PHB
+Plate Armor,1500,65,Armor,"Disadvantage (Stealth), 15 Str",18,,armor;heavy armor;metal;military,PHB
+Ring Mail,30,40,Armor,Disadvantage (Stealth),14,,armor;heavy armor;metal;military,PHB
+Splint Armor,200,60,Armor,"Disadvantage (Stealth), 15 Str",17,,armor;heavy armor;metal;military,PHB
+Leather Armor,10,10,Armor,,11+Dex,,armor;leather;light armor;military,PHB
+Padded Armor,5,8,Armor,Disadvantage (Stealth),11+Dex,,armor;light armor;military;textile,PHB
+Studded Leather Armor,45,13,Armor,,12+Dex,,armor;leather;light armor;military,PHB
+Breastplate,400,20,Armor,,14+Dex (max 16),,armor;medium armor;metal;military,PHB
+Chain Shirt,50,20,Armor,,13+Dex (max 15),,armor;medium armor;metal;military,PHB
+Half Plate Armor,750,40,Armor,Disadvantage (Stealth),15+Dex (max 17),,armor;medium armor;metal;military,PHB
+Hide Armor,10,12,Armor,,12+Dex (max 14),,armor;leather;medium armor;military,PHB
+Scale Mail,50,45,Armor,Disadvantage (Stealth),14+Dex (max 16),,armor;medium armor;metal;military,PHB
+Spiked Armor,75,45,Armor,Disadvantage (Stealth),14+Dex (max 16),,armor;medium armor;metal;military,SCAG
+Ale (Gallon),0.2,0,Food and Drink,,,,drink;food and drink,PHB
+Ale (Mug),0.04,0,Food and Drink,,,,drink;food and drink,PHB
+Chunk of Meat,0.3,0,Food and Drink,,,,food;food and drink,PHB
+Common Wine (Pitcher),0.2,0,Food and Drink,,,,drink;food and drink,PHB
+Fine Wine (Bottle),10,0,Food and Drink,,,,drink;food and drink;luxury,PHB
+Hunk of Cheese,0.1,0,Food and Drink,,,,food;food and drink,PHB
+Loaf of Bread,0.02,0,Food and Drink,,,,food;food and drink,PHB
+Dice Set,0.1,0,Gaming Set,,,,gaming set,PHB
+Dragonchess Set,1,0.5,Gaming Set,,,,gaming set,PHB
+Playing Card Set,0.5,0,Gaming Set,,,,gaming set,PHB
+Three-Dragon Ante Set,1,0,Gaming Set,,,,gaming set,PHB
+Bagpipes,30,6,Instrument,,,,instrument;leather,PHB
+Drum,6,3,Instrument,,,,instrument;leather;wood,PHB
+Dulcimer,25,10,Instrument,,,,instrument;wood,PHB
+Flute,2,1,Instrument,,,,instrument;metal;wood,PHB
+Horn,3,2,Instrument,,,,instrument;metal,PHB
+Lute,35,2,Instrument,,,,instrument;wood,PHB
+Lyre,30,2,Instrument,,,,instrument;wood,PHB
+Pan Flute,12,2,Instrument,,,,instrument;wood,PHB
+Shawm,2,1,Instrument,,,,instrument;wood,PHB
+Viol,30,1,Instrument,,,,instrument;wood,PHB
+Axe Beak,50,0,Mounts,,,,animal;mount;mounts,IDRotF
+Camel,50,0,Mounts,,,,animal;mount;mounts,PHB
+Donkey,8,0,Mounts,,,,animal;mount;mounts,PHB
+Draft Horse,50,0,Mounts,,,,animal;mount;mounts,PHB
+Elephant,200,0,Mounts,,,,animal;mount;mounts,PHB
+Mastiff,25,0,Mounts,,,,animal;mount;mounts,PHB
+Moorbounder,400,0,Mounts,,,,animal;mount;mounts,EGW
+Mule,8,0,Mounts,,,,animal;mount;mounts,PHB
+Pony,30,0,Mounts,,,,animal;mount;mounts,PHB
+Riding Horse,75,0,Mounts,,,,animal;mount;mounts,PHB
+Sled Dog,50,0,Mounts,,,,animal;mount;mounts,IDRotF
+Warhorse,400,0,Mounts,,,,animal;military;mount;mounts,PHB
+Bit and bridle,2,1,Mounts,,,,common;leather;metal;mounts;tack and harness,PHB
+Exotic Saddle,60,40,Mounts,,,,leather;mounts;tack and harness,PHB
+Feed (per day),0.05,10,Mounts,,,,animal;common;mounts;tack and harness,PHB
+Military Saddle,20,30,Mounts,,,,leather;military;mounts;tack and harness,PHB
+Pack Saddle,5,15,Mounts,,,,common;leather;mounts;tack and harness,PHB
+Riding Saddle,10,25,Mounts,,,,common;leather;mounts;tack and harness,PHB
+Saddlebags,4,8,Mounts,,,,common;mounts;tack and harness;textile,PHB
+Stabling (per day),0.5,0,Mounts,,,,animal;mounts;tack and harness,PHB
+Breastplate Barding,1600,40,Mounts,,14+Dex (max 16),,armor;metal;military;mounts;tack and harness,PHB
+Chain Mail Barding,300,110,Mounts,"Disadvantage (Stealth), 13 Str",16,,armor;metal;military;mounts;tack and harness,PHB
+Chain Shirt Barding,200,40,Mounts,,13+Dex (max 15),,armor;metal;military;mounts;tack and harness,PHB
+Half Plate Armor Barding,3000,80,Mounts,Disadvantage (Stealth),15+Dex (max 17),,armor;metal;military;mounts;tack and harness,PHB
+Hide Armor Barding,40,24,Mounts,,12+Dex (max 14),,armor;leather;military;mounts;tack and harness,PHB
+Leather Armor Barding,40,20,Mounts,,11+Dex,,armor;leather;military;mounts;tack and harness,PHB
+Padded Armor Barding,20,16,Mounts,Disadvantage (Stealth),11+Dex,,armor;military;mounts;tack and harness;textile,PHB
+Plate Armor Barding,6000,130,Mounts,"Disadvantage (Stealth), 15 Str",18,,armor;metal;military;mounts;tack and harness,PHB
+Ring Mail Barding,120,80,Mounts,Disadvantage (Stealth),14,,armor;metal;military;mounts;tack and harness,PHB
+Scale Mail Barding,200,90,Mounts,Disadvantage (Stealth),14+Dex (max 16),,armor;metal;military;mounts;tack and harness,PHB
+Spiked Armor Barding,300,90,Mounts,Disadvantage (Stealth),14+Dex (max 16),,armor;metal;military;mounts;tack and harness,PHB
+Splint Armor Barding,800,120,Mounts,"Disadvantage (Stealth), 15 Str",17,,armor;metal;military;mounts;tack and harness,PHB
+Studded Leather Armor Barding,180,26,Mounts,,12+Dex,,armor;leather;military;mounts;tack and harness,PHB
+Alchemist's Supplies,50,8,Tools,,,,alchemy;artisan's tools;tools,PHB
+Brewer's Supplies,20,9,Tools,,,,artisan's tools;tools,PHB
+Calligrapher's Supplies,10,5,Tools,,,,artisan's tools;tools,PHB
+Carpenter's Tools,8,6,Tools,,,,artisan's tools;common;tools;wood,PHB
+Cartographer's Tools,15,6,Tools,,,,artisan's tools;tools,PHB
+Cobbler's Tools,5,5,Tools,,,,artisan's tools;tools,PHB
+Cook's Utensils,1,8,Tools,,,,artisan's tools;common;tools,PHB
+Glassblower's Tools,30,5,Tools,,,,artisan's tools;kiln;tools,PHB
+Jeweler's Tools,25,2,Tools,,,,artisan's tools;clockwork;tools,PHB
+Leatherworker's Tools,5,5,Tools,,,,artisan's tools;leather;tools,PHB
+Mason's Tools,10,8,Tools,,,,artisan's tools;stone;tools,PHB
+Painter's Supplies,10,5,Tools,,,,artisan's tools;tools,PHB
+Potter's Tools,10,3,Tools,,,,artisan's tools;kiln;tools,PHB
+Smith's Tools,20,8,Tools,,,,artisan's tools;metal;tools,PHB
+Tinker's Tools,50,10,Tools,,,,artisan's tools;clockwork;tools,PHB
+Weaver's Tools,1,5,Tools,,,,artisan's tools;textile;tools,PHB
+Woodcarver's Tools,1,5,Tools,,,,artisan's tools;tools;wood,PHB
+Disguise Kit,25,3,Tools,,,,criminal;tools,PHB
+Forgery Kit,15,5,Tools,,,,criminal;tools,PHB
+Herbalism Kit,5,3,Tools,,,,alchemy;nature;tools,PHB
+Navigator's Tools,25,2,Tools,,,,tools,PHB
+Poisoner's Kit,50,2,Tools,,,,criminal;tools,PHB
+Thieves' Tools,25,1,Tools,,,,criminal;tools,PHB
+Adamantine Bar,1000,10,Trade Goods,,,,metal;trade good;trade goods,WDH
+Canvas (1 sq. yd.),0.1,0,Trade Goods,,,,textile;trade good;trade goods,PHB
+Chicken,0.02,0,Trade Goods,,,,animal;common;trade good;trade goods,PHB
+Cinnamon,2,1,Trade Goods,,,,trade good;trade goods,PHB
+Cloves,3,1,Trade Goods,,,,trade good;trade goods,PHB
+Copper,0.5,1,Trade Goods,,,,metal;trade good;trade goods,PHB
+Cotton Cloth (1 sq. yd.),0.5,0,Trade Goods,,,,textile;trade good;trade goods,PHB
+Cow,10,0,Trade Goods,,,,animal;common;trade good;trade goods,PHB
+Flour,0.02,1,Trade Goods,,,,common;trade good;trade goods,PHB
+Ginger,1,1,Trade Goods,,,,trade good;trade goods,PHB
+Goat,1,0,Trade Goods,,,,animal;common;trade good;trade goods,PHB
+Gold,50,1,Trade Goods,,,,luxury;metal;trade good;trade goods,PHB
+Iron,0.1,1,Trade Goods,,,,metal;trade good;trade goods,PHB
+Linen (1 sq. yd.),5,0,Trade Goods,,,,common;textile;trade good;trade goods,PHB
+Pepper,2,1,Trade Goods,,,,trade good;trade goods,PHB
+Pig,3,0,Trade Goods,,,,animal;common;trade good;trade goods,PHB
+Platinum,500,1,Trade Goods,,,,luxury;metal;trade good;trade goods,PHB
+Saffron,15,1,Trade Goods,,,,trade good;trade goods,PHB
+Salt,0.05,1,Trade Goods,,,,common;trade good;trade goods,PHB
+Sheep,2,0,Trade Goods,,,,animal;common;trade good;trade goods,PHB
+Silk (1 sq. yd.),10,0,Trade Goods,,,,luxury;textile;trade good;trade goods,PHB
+Silver,5,1,Trade Goods,,,,luxury;metal;trade good;trade goods,PHB
+Wheat,0.01,1,Trade Goods,,,,common;trade good;trade goods,PHB
+Ox,15,0,Trade Goods,,,,animal;common;mount;trade good;trade goods,PHB
+Airship,20000,0,Vehicle,,,,air;vehicle,DMG
+Skyship,100000,0,Vehicle,,,,air;vehicle,EGW
+Carriage,100,600,Vehicle,,,,land;vehicle,PHB
+Cart,15,200,Vehicle,,,,common;land;vehicle;wood,PHB
+Chariot,250,100,Vehicle,,,,land;military;vehicle,PHB
+Dogsled,20,300,Vehicle,,,,land;metal;vehicle;wood,IDRotF
+Sled,20,300,Vehicle,,,,common;land;vehicle;wood,PHB
+Wagon,35,400,Vehicle,,,,land;vehicle;wood,PHB
+Canoe,50,100,Vehicle,,,,common;vehicle;water,ToA
+Galley,30000,0,Vehicle,,,,military;vehicle;water,DMG
+Keelboat,3000,0,Vehicle,,,,vehicle;water,DMG
+Longship,10000,0,Vehicle,,,,military;vehicle;water,DMG
+Rowboat,50,100,Vehicle,,,,common;vehicle;water;wood,DMG
+Sailing Ship,10000,0,Vehicle,,,,vehicle;water,DMG
+Warship,25000,0,Vehicle,,,,military;vehicle;water,DMG
+Arrow,0.05,0.05,Weapons,,,,ammunition;common;weapons;wood,PHB
+Arrows (20),1,1,Weapons,,,,ammunition;common;weapons;wood,PHB
+Blowgun Needle,0.02,0.02,Weapons,,,,ammunition;weapons,PHB
+Blowgun Needles (50),1,1,Weapons,,,,ammunition;weapons,PHB
+Crossbow Bolt,0.05,0.075,Weapons,,,,ammunition;metal;military;weapons;wood,PHB
+Crossbow Bolts (20),1,1.5,Weapons,,,,ammunition;metal;military;weapons;wood,PHB
+Sling Bullet,0.002,0.075,Weapons,,,,ammunition;common;weapons,PHB
+Sling Bullets (20),0.04,1.5,Weapons,,,,ammunition;common;weapons,PHB
+Battleaxe,10,4,Weapons,Versatile (1d10),,1d8 slashing,martial weapon;melee weapon;metal;military;weapons,PHB
+Double-Bladed Scimitar,100,6,Weapons,"Special, Two-Handed",,2d4 slashing,martial weapon;melee weapon;metal;military;weapons,ERLW
+Flail,10,2,Weapons,,,1d10 bludgeoning,martial weapon;melee weapon;metal;military;weapons,PHB
+Glaive,20,6,Weapons,"Heavy, Reach, Two-Handed",,1d10 slashing,martial weapon;melee weapon;metal;military;weapons,PHB
+Greataxe,30,7,Weapons,"Heavy, Two-Handed",,1d12 slashing,martial weapon;melee weapon;metal;military;weapons,PHB
+Greatsword,50,6,Weapons,"Heavy, Two-Handed",,2d6 slashing,martial weapon;melee weapon;metal;military;weapons,PHB
+Halberd,20,6,Weapons,"Heavy, Reach, Two-Handed",,1d10 slashing,martial weapon;melee weapon;metal;military;weapons,PHB
+Lance,10,6,Weapons,"Reach, Special",,1d12 piercing,martial weapon;melee weapon;metal;military;weapons;wood,PHB
+Longsword,15,3,Weapons,Versatile (1d10),,1d8 slashing,martial weapon;melee weapon;metal;military;weapons,PHB
+Maul,10,10,Weapons,"Heavy, Two-Handed",,2d6 bludgeoning,martial weapon;melee weapon;metal;military;weapons;wood,PHB
+Morningstar,15,4,Weapons,,,1d8 piercing,martial weapon;melee weapon;metal;military;weapons,PHB
+Pike,5,18,Weapons,"Heavy, Reach, Two-Handed",,1d10 piercing,martial weapon;melee weapon;metal;military;weapons;wood,PHB
+Rapier,25,2,Weapons,Finesse,,1d8 piercing,martial weapon;melee weapon;metal;military;weapons,PHB
+Scimitar,25,3,Weapons,"Finesse, Light",,1d6 slashing,martial weapon;melee weapon;metal;military;weapons,PHB
+Shortsword,10,2,Weapons,"Finesse, Light",,1d6 piercing,martial weapon;melee weapon;metal;military;weapons,PHB
+Trident,5,4,Weapons,"Thrown (range 20/60), Versatile (1d8)",,1d6 piercing,martial weapon;melee weapon;metal;weapons,PHB
+War Pick,5,2,Weapons,,,1d8 piercing,martial weapon;melee weapon;metal;military;weapons,PHB
+Warhammer,15,2,Weapons,Versatile (1d10),,1d8 bludgeoning,martial weapon;melee weapon;metal;military;weapons,PHB
+Whip,2,3,Weapons,"Finesse, Reach",,1d4 slashing,common;leather;martial weapon;melee weapon;weapons,PHB
+Blowgun,10,1,Weapons,"Ammunition (range 25/100), Loading",,1 piercing,martial weapon;ranged weapon;weapons;wood,PHB
+Hand Crossbow,75,3,Weapons,"Ammunition (range 30/120), Light, Loading",,1d6 piercing,martial weapon;metal;military;ranged weapon;weapons;wood,PHB
+Heavy Crossbow,50,18,Weapons,"Ammunition (range 100/400), Heavy, Loading, Two-Handed",,1d10 piercing,martial weapon;metal;military;ranged weapon;weapons;wood,PHB
+Longbow,50,2,Weapons,"Ammunition (range 150/600), Heavy, Two-Handed",,1d8 piercing,martial weapon;military;ranged weapon;weapons;wood,PHB
+Net,1,3,Weapons,"Special, Thrown (5/15)",,,martial weapon;ranged weapon;weapons,PHB
+Club,0.1,2,Weapons,Light,,1d4 bludgeoning,common;melee weapon;simple weapon;weapons;wood,PHB
+Dagger,2,1,Weapons,"Finesse, Light, Thrown (range 20/60)",,1d4 piercing,melee weapon;metal;simple weapon;weapons,PHB
+Greatclub,0.2,10,Weapons,Two-Handed,,1d8 bludgeoning,melee weapon;simple weapon;weapons;wood,PHB
+Handaxe,5,2,Weapons,"Light, Thrown (range 20/60)",,1d6 slashing,common;melee weapon;metal;simple weapon;weapons,PHB
+Javelin,0.5,2,Weapons,Thrown (range 30/120),,1d6 piercing,melee weapon;simple weapon;weapons;wood,PHB
+Light Hammer,2,2,Weapons,"Light, Thrown (range 20/60)",,1d4 bludgeoning,common;melee weapon;metal;simple weapon;weapons,PHB
+Mace,5,4,Weapons,,,1d6 bludgeoning,melee weapon;military;metal;simple weapon;weapons,PHB
+Quarterstaff,0.2,4,Weapons,Versatile (1d8),,1d6 bludgeoning,common;melee weapon;simple weapon;weapons;wood,PHB
+Sickle,1,2,Weapons,Light,,1d4 slashing,common;melee weapon;metal;simple weapon;weapons,PHB
+Spear,1,3,Weapons,"Thrown (range 20/60), Versatile (1d8)",,1d6 piercing,melee weapon;metal;simple weapon;weapons;wood,PHB
+Yklwa,1,3,Weapons,Thrown (range 10/30),,1d8 piercing,melee weapon;metal;simple weapon;stone;weapons;wood,ToA
+Staff,5,4,Weapons,,,1d6 bludgeoning,adventuring gear;arcane;common;druidic;magic;spellcasting focus;wood,PHB
+Dart,0.05,0.25,Weapons,"Finesse, Thrown (range 20/60)",,1d4 piercing,common;metal;ranged weapon;simple weapon;weapons,PHB
+Light Crossbow,25,5,Weapons,"Ammunition (range 80/320), Loading, Two-Handed",,1d8 piercing,metal;military;ranged weapon;simple weapon;weapons;wood,PHB
+Shortbow,25,2,Weapons,"Ammunition (range 80/320), Two-Handed",,1d6 piercing,common;ranged weapon;simple weapon;weapons;wood,PHB
+Sling,0.1,0,Weapons,Ammunition (range 30/120),,1d4 bludgeoning,common;leather;ranged weapon;simple weapon;weapons,PHB
